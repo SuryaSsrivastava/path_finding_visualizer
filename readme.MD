@@ -66,7 +66,6 @@ Either install from packages by typing these commands in your terminal
 
 ```
 pip install pygame
-
 ```
 
 ## Screenshots
